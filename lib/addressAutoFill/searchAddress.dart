@@ -3,7 +3,7 @@ import 'package:flutter_google_places/flutter_google_places.dart';
 import 'package:geocoder/geocoder.dart';
 import 'package:google_maps_webservice/places.dart';
 
-const kGoogleApiKey = "AIzaSyCxyTjhd3HB6kdh9Mpn21hKAYrHERC3RCI";
+const kGoogleApiKey = "ADDRESS KEY";
 
 GoogleMapsPlaces _places = GoogleMapsPlaces(apiKey: kGoogleApiKey);
 
